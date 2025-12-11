@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import './App.css';
-import NetflixImg from "./Assets/Netflix.jpg";
+import NetflixImg from "./assets/Netflix.jpg";
 
 
 function App() {

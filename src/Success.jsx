@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./index.css";
-import NetflixImg from "./Assets/Netflix.jpg";
+import NetflixImg from "./aassets/Netflix.jpg";
 
 
 function Success() {
